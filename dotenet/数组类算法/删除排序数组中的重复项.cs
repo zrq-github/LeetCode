@@ -28,5 +28,16 @@ namespace dotenet_leetCode.数组类算法
             }
             return valIndex + 1;
         }
+
+        public int RemoveDuplicates2(int[] nums)
+        {
+            int len = 0;
+            for (int i = 0; i < nums.Length; i++)
+            {
+                if (len < 2 || nums[i] != nums[len - 2])
+                    nums[len++] = nums[i];
+            }
+            return len;
+        }
     }
 }
