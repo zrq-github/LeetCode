@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace dotenet_leetCode.数组类算法
+﻿namespace PerDayOneTopic.数组类算法
 {
     internal class 删除排序数组中的重复项
     {

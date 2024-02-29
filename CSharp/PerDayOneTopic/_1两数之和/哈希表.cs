@@ -1,14 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace dotenet_leetCode._1_两数之和
+﻿
+namespace PerDayOneTopic._1两数之和
 {
-    /// <summary>
-    /// 
-    /// </summary>
     internal class 哈希表
     {
         public static int[] TwoSum(int[] nums, int target)

@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace dotenet._1_两数之和
+﻿namespace PerDayOneTopic._1两数之和
 {
     internal class 暴力解法
     {
