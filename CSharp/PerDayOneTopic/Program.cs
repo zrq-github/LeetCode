@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            var testCase = _2369_检查数组是否存在有效划分.Solution.GetTestCase();
+            var result = _2369_检查数组是否存在有效划分.Solution.ValidPartition(testCase);
         }
     }
 }

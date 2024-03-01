@@ -1,5 +1,5 @@
 ﻿
-namespace PerDayOneTopic._1两数之和
+namespace PerDayOneTopic._1_两数之和
 {
     internal class 哈希表
     {
