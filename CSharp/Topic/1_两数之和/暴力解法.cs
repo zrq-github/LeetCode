@@ -1,4 +1,4 @@
-﻿namespace PerDayOneTopic._1_两数之和
+﻿namespace Topic._1_两数之和
 {
     internal class 暴力解法
     {

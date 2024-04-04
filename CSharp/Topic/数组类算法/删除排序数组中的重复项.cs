@@ -1,4 +1,4 @@
-﻿namespace PerDayOneTopic.数组类算法
+﻿namespace Topic.数组类算法
 {
     internal class 删除排序数组中的重复项
     {
